@@ -29,7 +29,7 @@ Belki bu aleti anlamak için yeni bir şey yapabileceğimi düşündüm. Madem i
 
 <h2 align="left">Siber Uyku için Araçlar</h2>
 
-<p align="left">Siber Uykuyu keşfetmek için elzem</p>
+<p align="left">Siber Uykunun olmazsa olmazları</p>
 
 ###
 
@@ -47,7 +47,7 @@ Belki bu aleti anlamak için yeni bir şey yapabileceğimi düşündüm. Madem i
 
 <h2 align="left">Siber Uyku Metrikleri</h2>
 
-<p align="left">İşte, hepsi sizin için. Alın inceleyin ve karar verin:</p>
+<p align="left">Burada bulunmak göründüğü kadar kolay değil.</p>
 
 ###
 
