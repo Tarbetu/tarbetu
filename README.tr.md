@@ -23,39 +23,43 @@ Belki bu aleti anlamak için yeni bir şey yapabileceğimi düşündüm. Madem i
 
 ###
 
-<p align="left">Hala ilgili misiniz? Güzel.<br><b><a href="https://emrecansuster.com">Beyaz tavşanı takip edin</a></b><br>Ya da belki de <b><a href="https://emrecansuster.com/echoes">kafamdaki yankıları</a></b> merak ediyorsunuzdur?<br>Pekala...<br>Sadece...</p>
+<p align="left">Hala ilginizi çekiyor muyum? Güzel.<br><b><a href="https://emrecansuster.com">Beyaz tavşanı takip edin</a></b><br>Ya da belki de <b><a href="https://emrecansuster.com/echoes">kafamdaki yankıları</a></b> merak ediyorsunuzdur?<br>Pekala...<br>Sadece...</p>
 
 ###
 
 <h2 align="left">Siber Uyku için Araçlar</h2>
 
+<p align="left">Siber Uykuyu keşfetmek için elzem</p>
+
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" alt="Belki gelmiş geçmiş en estetik dil"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Paramı kazandığım dil"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rus rus rus"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linuk"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" alt="Belki gelmiş geçmiş en estetik dil" style="filter: grayscale(80%) brightness(0.9);"/>
+  <img width="12"  style="filter: grayscale(80%) brightness(0.9);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Paramı kazandığım dil" style="filter: grayscale(80%) brightness(0.9);"/>
+  <img width="12"  style="filter: grayscale(80%) brightness(0.9);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rus rus rus" style="filter: grayscale(80%) brightness(0.9);"/>
+  <img width="12"  style="filter: grayscale(80%) brightness(0.9);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linuk" style="filter: grayscale(80%) brightness(0.9);"/>
 </div>
 
 ###
 
-<h2 align="left">Siber Uyku Hakkında</h2>
+<h2 align="left">Siber Uyku Metrikleri</h2>
+
+<p align="left">İşte, hepsi sizin için. Alın inceleyin ve karar verin:</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarbetu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarbetu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tarbetu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"   style="filter: grayscale(80%) brightness(0.9);"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarbetu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"   style="filter: grayscale(80%) brightness(0.9);"/>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/tarbetu/count.svg?"/>
+  <img src="https://profile-counter.glitch.me/tarbetu/count.svg?" style="filter: grayscale(80%) brightness(0.9);"/>
 </div>
 
 ###
